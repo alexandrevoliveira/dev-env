@@ -5,3 +5,4 @@ echo '\nzinit light zdharma/fast-syntax-highlighting
 zinit light zsh-users/zsh-autosuggestions
 zinit light zsh-users/zsh-completions' >> ~/.zshrc
 zinit self-update
+source ~/.zshrc
